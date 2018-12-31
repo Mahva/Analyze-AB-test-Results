@@ -6,7 +6,7 @@ This is an A/B testing assignment completed for Udacity's Data Analyst Nano Degr
 - Practice working on A/B testing projects and their practical difficulties
 - Perform A/B tests and make recommendations backed by computed inferences
 
-## Project Stages
+## Project Steps
 ### Data Wrangling:
 - Remove duplicates or records with missing or mismatched values
 - Handle the rows where the landing_page and group columns don't align
